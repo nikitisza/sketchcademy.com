@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-bd8eb4eea95ea78846c7.js","mappings":"oLAEe,SAASA,IACtB,OAAQ","sources":["webpack://sketchcademy/./src/pages/index.js"],"sourcesContent":["import * as React from \"react\"\n\nexport default function Component () {\n  return (<h1>Welcome</h1>)\n}"],"names":["Component"],"sourceRoot":""}

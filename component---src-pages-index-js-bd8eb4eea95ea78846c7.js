@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksketchcademy=self.webpackChunksketchcademy||[]).push([[678],{7704:function(e,c,n){n.r(c),n.d(c,{default:function(){return u}});n(7294);var t=n(9021);function u(){return(0,t.tZ)("h1",null,"Welcome")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-bd8eb4eea95ea78846c7.js.map
